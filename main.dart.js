@@ -54368,16 +54368,16 @@ r=A.ba(b)?0.007:0.009
 r=A.bU(q,q,m.a.a*r)
 n=b.H(n).f
 m=A.ba(b)?0.007:0.009
-return A.abw(A.hB(A.b([p,new A.jl("Atividade\nF\xedsica","peso.webp",o.c,q),l,new A.jl("Consumo de\n\xc1lcool","cerveja.webp",o.d,q),s,new A.jl("Peso\nCorporal","balanca.webp",o.r,q),r,new A.jl("Preven\xe7\xe3o para\no C\xe2ncer","virus.webp",o.f,q),A.bU(q,q,n.a.a*m),new A.jl("Uso do\nCigarro","cigarro.webp",o.e,q)],t.p),B.M,B.aN,B.F),B.a6)}}
+return A.abw(A.hB(A.b([p,new A.jl("Atividade\nF\xedsica","images/peso.webp",o.c,q),l,new A.jl("Consumo de\n\xc1lcool","images/cerveja.webp",o.d,q),s,new A.jl("Peso\nCorporal","images/balanca.webp",o.r,q),r,new A.jl("Preven\xe7\xe3o para\no C\xe2ncer","images/virus.webp",o.f,q),A.bU(q,q,n.a.a*m),new A.jl("Uso do\nCigarro","images/cigarro.webp",o.e,q)],t.p),B.M,B.aN,B.F),B.a6)}}
 A.zG.prototype={
-O(a,b){var s,r=null,q="dos seus h\xe1bitos",p=A.ba(b)?B.aH:B.a6,o=this.c,n=o.z,m=A.NO("green","Voc\xea possui",n,o.ch,"de Comportamentos bons","Atualmente, "+o.h(0)+".porcentRisco s\xe3o bons."),l=t.w,k=b.H(l).f,j=A.ba(b)?0.02:0.0127,i=t.p
-j=A.hB(A.b([m,A.bU(r,r,k.a.a*j),A.NO("red","Voc\xea precisa melhorar",n,o.cy,q,"Teste")],i),B.M,B.aN,B.F)
+O(a,b){var s,r=null,q="dos seus h\xe1bitos",p=A.ba(b)?B.aH:B.a6,o=this.c,n=o.z,m=A.NO("green","Voc\xea possui",n,o.ch,"de Comportamentos bons","Atualmente, 14% dos seus comportamentos s\xe3o bons."),l=t.w,k=b.H(l).f,j=A.ba(b)?0.02:0.0127,i=t.p
+j=A.hB(A.b([m,A.bU(r,r,k.a.a*j),A.NO("red","Voc\xea precisa melhorar",n,o.cy,q,"Atualmente, 3% dos seus comportamentos s\xe3o ruins\n\nS\xe3o comportamentos que podem ser modificados e necessitam de mudan\xe7a priorit\xe1ria imediata quando inadequados como:\n\nAtividade f\xedsica;\nRedu\xe7\xe3o de peso;\nTabagismo;\nConsumo de \xe1lcool.")],i),B.M,B.aN,B.F)
 m=A.ba(b)?0:b.H(l).f.a.a*0.0127
 m=A.bU(r,A.ba(b)?b.H(l).f.a.a*0.02:0,m)
-k=A.NO("yellow","Voc\xea precisa mudar",n,o.db,"\xe0 curto prazo","teste")
+k=A.NO("yellow","Voc\xea precisa mudar",n,o.db,"\xe0 curto prazo","Atualmente, voc\xea precisa alterar  7% dos seus comportamentos \xe0 curto prazo.\n\nS\xe3o comportamentos que podem ser modificados e priorit\xe1rios para mudan\xe7a em curto prazo quando inadequados como:\n\n Ficar em dia com seus exames para preven\xe7\xe3o do c\xe2ncerde mama.")
 l=b.H(l).f
 s=A.ba(b)?0.02:0.0127
-return A.aa5(A.b([j,m,A.hB(A.b([k,A.bU(r,r,l.a.a*s),A.NO("blue","Voc\xea n\xe3o consegue modificar",n,o.dx,q,"teste")],i),B.M,B.aN,B.F)],i),B.M,p,r,B.aN,B.F,r,r,B.b8)}}
+return A.aa5(A.b([j,m,A.hB(A.b([k,A.bU(r,r,l.a.a*s),A.NO("blue","Voc\xea n\xe3o consegue modificar",n,o.dx,q,"Atualmente, 86% dos seus comportamentos n\xe3o podem ser alterados.\n\nS\xe3o comportamentos que n\xe3o podem ser modificados, como:\n\nHereditariedade;\nIdade;\nEtnia;\nRa\xe7a.\n\nE lembre-se: devem estar em constante monitoriza\xe7\xe3o para o desenvolvimento do c\xe2ncer de mama.")],i),B.M,B.aN,B.F)],i),B.M,p,r,B.aN,B.F,r,r,B.b8)}}
 A.BH.prototype={
 O(a,b){var s,r,q,p,o,n=null,m=t.w,l=A.bU(n,b.H(m).f.a.a*0.04,n),k=b.H(m).f
 A.ba(b)
@@ -54399,7 +54399,7 @@ q=A.ba(b)?0.05:0.028
 q=A.h2(A.b([r,A.de(this.e,n,A.dk(B.ca,s.a.a*q,B.X,n,n),n,n,n)],o),B.ev,B.Q,B.F)
 s=b.H(m).f
 r=A.ba(b)?0.1:0.068
-return A.is(B.O,!0,new A.f8(B.a_,n,n,A.h2(A.b([l,A.hB(A.b([k,p,B.FQ,A.h2(A.b([A.hB(A.b([q,A.aag("campeao.webp",s.a.a*r)],o),B.M,B.Q,B.F)],o),B.ev,B.Q,B.F),A.bU(n,n,b.H(m).f.a.a*0.046)],o),B.M,B.Q,B.F),A.bU(n,b.H(m).f.a.a*0.02,n)],o),B.M,B.Q,B.F),n),B.y,n,0,n,n,n,n,B.b6)}}
+return A.is(B.O,!0,new A.f8(B.a_,n,n,A.h2(A.b([l,A.hB(A.b([k,p,B.FQ,A.h2(A.b([A.hB(A.b([q,A.aag("images/campeao.webp",s.a.a*r)],o),B.M,B.Q,B.F)],o),B.ev,B.Q,B.F),A.bU(n,n,b.H(m).f.a.a*0.046)],o),B.M,B.Q,B.F),A.bU(n,b.H(m).f.a.a*0.02,n)],o),B.M,B.Q,B.F),n),B.y,n,0,n,n,n,n,B.b6)}}
 A.rN.prototype={
 aH(){return new A.HD(B.m)}}
 A.HD.prototype={

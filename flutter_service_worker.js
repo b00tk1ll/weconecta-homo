@@ -3,15 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4f2cd21f07a9d657723c86e6b4aedede",
-"assets/assets/balanca.webp": "0c439c1c6389064160d866b4130c5eaa",
-"assets/assets/campeao.webp": "ba7ca45b40a09fc4832659ac05039d42",
-"assets/assets/cerveja.webp": "aca9c35a62996d439d84b2db0d25370d",
-"assets/assets/cigarro.webp": "33e7306c4439a5cc0bf32192ea2a7265",
-"assets/assets/peso.webp": "70b5ae3bd2a1385e2c76bda2c1895c62",
-"assets/assets/virus.webp": "4bb6327b4fc5259d141308a9c7041dd5",
+  "assets/AssetManifest.json": "9b829fb481b0e3c24ca24086c4805c8a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/images/balanca.webp": "0c439c1c6389064160d866b4130c5eaa",
+"assets/images/campeao.webp": "ba7ca45b40a09fc4832659ac05039d42",
+"assets/images/cerveja.webp": "aca9c35a62996d439d84b2db0d25370d",
+"assets/images/cigarro.webp": "33e7306c4439a5cc0bf32192ea2a7265",
+"assets/images/peso.webp": "70b5ae3bd2a1385e2c76bda2c1895c62",
+"assets/images/virus.webp": "4bb6327b4fc5259d141308a9c7041dd5",
 "assets/NOTICES": "28e551ba3395ddc66e940624be42bf2d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -23,9 +23,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0d2e87d8ba093dfc92b4bfed1651cfc5",
-"/": "0d2e87d8ba093dfc92b4bfed1651cfc5",
-"main.dart.js": "adeedc9a14f04fda9a179e8aa2dcfc8f",
+"index.html": "c314d3a0c128d0256c094dda5737a924",
+"/": "c314d3a0c128d0256c094dda5737a924",
+"main.dart.js": "2e90d24ef10b40b47899a7f125ff514d",
 "manifest.json": "0bbea28a23d233865f2d387f4700c7b9",
 "version.json": "58bc3dd9c1244ff8c835dd1f94cd2627"
 };
