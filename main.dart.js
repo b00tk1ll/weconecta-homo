@@ -51130,14 +51130,14 @@ n=b.D(n).f
 m=A.ax(b)?0.007:0.009
 return A.a70(A.ha(A.b([p,new A.iM("Atividade\nF\xedsica","images/peso.webp",o.c,q),l,new A.iM("Consumo de\n\xc1lcool","images/cerveja.webp",o.d,q),s,new A.iM("Peso\nCorporal","images/balanca.webp",o.r,q),r,new A.iM("Preven\xe7\xe3o para\no C\xe2ncer","images/virus.webp",o.f,q),A.bS(q,q,n.a.a*m),new A.iM("Uso do\nCigarro","images/cigarro.webp",o.e,q)],t.p),B.L,B.aJ,B.F),B.a5)}}
 A.xS.prototype={
-N(a,b){var s,r=null,q="dos seus h\xe1bitos",p=A.ax(b)?B.aC:B.a5,o=this.c,n=o.z,m=A.KS("green","Voc\xea possui",n,o.ch,"de Comportamentos bons","Atualmente, 14% dos seus comportamentos s\xe3o bons."),l=t.w,k=b.D(l).f,j=A.ax(b)?0.02:0.0127,i=t.p
+N(a,b){var s,r=null,q="dos seus h\xe1bitos",p=A.ax(b)?B.aC:B.a5,o=this.c,n=o.z,m=A.KS("green","Voc\xea possui",n,o.ch,"de Comportamentos bons","Atualmente, 86% dos seus comportamentos s\xe3o bons."),l=t.w,k=b.D(l).f,j=A.ax(b)?0.02:0.0127,i=t.p
 j=A.ha(A.b([m,A.bS(r,r,k.a.a*j),A.KS("red","Voc\xea precisa melhorar",n,o.cy,q,"Atualmente, 3% dos seus comportamentos s\xe3o ruins\n\nS\xe3o comportamentos que podem ser modificados e necessitam de mudan\xe7a priorit\xe1ria imediata quando inadequados como:\n\nAtividade f\xedsica;\nRedu\xe7\xe3o de peso;\nTabagismo;\nConsumo de \xe1lcool.")],i),B.L,B.aJ,B.F)
 m=A.ax(b)?0:b.D(l).f.a.a*0.0127
 m=A.bS(r,A.ax(b)?b.D(l).f.a.a*0.02:0,m)
 k=A.KS("yellow","Voc\xea precisa mudar",n,o.db,"\xe0 curto prazo","Atualmente, voc\xea precisa alterar  7% dos seus comportamentos \xe0 curto prazo.\n\nS\xe3o comportamentos que podem ser modificados e priorit\xe1rios para mudan\xe7a em curto prazo quando inadequados como:\n\n Ficar em dia com seus exames para preven\xe7\xe3o do c\xe2ncerde mama.")
 l=b.D(l).f
 s=A.ax(b)?0.02:0.0127
-return A.a5A(A.b([j,m,A.ha(A.b([k,A.bS(r,r,l.a.a*s),A.KS("blue","Voc\xea n\xe3o consegue modificar",n,o.dx,q,"Atualmente, 86% dos seus comportamentos n\xe3o podem ser alterados.\n\nS\xe3o comportamentos que n\xe3o podem ser modificados, como:\n\nHereditariedade;\nIdade;\nEtnia;\nRa\xe7a.\n\nE lembre-se: devem estar em constante monitoriza\xe7\xe3o para o desenvolvimento do c\xe2ncer de mama.")],i),B.L,B.aJ,B.F)],i),B.L,p,r,B.aJ,B.F,r,r,B.b3)}}
+return A.a5A(A.b([j,m,A.ha(A.b([k,A.bS(r,r,l.a.a*s),A.KS("blue","Voc\xea n\xe3o consegue modificar",n,o.dx,q,"Atualmente, 14% dos seus comportamentos n\xe3o podem ser alterados.\n\nS\xe3o comportamentos que n\xe3o podem ser modificados, como:\n\nHereditariedade;\nIdade;\nEtnia;\nRa\xe7a.\n\nE lembre-se: devem estar em constante monitoriza\xe7\xe3o para o desenvolvimento do c\xe2ncer de mama.")],i),B.L,B.aJ,B.F)],i),B.L,p,r,B.aJ,B.F,r,r,B.b3)}}
 A.zo.prototype={
 N(a,b){var s,r,q,p,o,n=null,m=t.w,l=A.bS(n,b.D(m).f.a.a*0.04,n),k=b.D(m).f
 A.ax(b)
