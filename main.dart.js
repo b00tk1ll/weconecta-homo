@@ -15729,7 +15729,7 @@ var $async$a4t=A.a9(function(b,c){if(b===1)return A.a5(c,r)
 while(true)switch(s){case 0:g=t.N
 f=t.z
 A.aT(["id_atendimento",a],g,f)
-f=A.aT(["classificacao","Preven\xe7\xe3o","cpf","1111132133","escore_atv_fisica","3","escore_cons_bebida","4","escore_cons_tabaco","2","escore_exame_prev","5","escore_peso_corp","4","idade","39","imc","25","name","Fulano","porcent_prevencao","99","porcent_risco","14","porcent_risco_1","3","porcent_risco_2","3","porcent_risco_3","7","porcent_risco_4","86"],g,f)
+f=A.aT(["classificacao","Preven\xe7\xe3o","cpf","1111132133","escore_atv_fisica","3","escore_cons_bebida","4","escore_cons_tabaco","2","escore_exame_prev","5","escore_peso_corp","4","idade","39","imc","25","name","Fulano","porcent_prevencao","99","porcent_risco","86","porcent_risco_1","3","porcent_risco_2","3","porcent_risco_3","7","porcent_risco_4","14"],g,f)
 g=f.i(0,"classificacao")
 p=A.cd(f.i(0,"cpf"),null)
 o=A.cd(f.i(0,"escore_atv_fisica"),null)
